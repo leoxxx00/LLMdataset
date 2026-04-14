@@ -7,7 +7,7 @@ This project was developed as part of my undergraduate third year final projectd
 ---
 
 ## 📖 Project Description
-Self extracted LLM dataset from websites using agentic system using agentic system self constructructed q nad a and source Zhao datasset cleaning  :https://github.com/Zaozzz/ECG-Expert-QA.git
+Self extracted LLM dataset from websites using agentic system using agentic system self constructructed q nad a and original source Zhao datasset cleaning  :https://github.com/Zaozzz/ECG-Expert-QA.git
 
 
 Example:
